@@ -19,13 +19,16 @@ Running step:
     python features.py 
 (3) train coarse or fine model:
     python train.py
-(4) inference 
+(4) inference: 
     python inference_validation.py 
 
 
 Citation
 [1] Kong, Qiuqiang, Yong Xu, Iwona Sobieraj, Wenwu Wang, and Mark D. Plumbley. "Sound Event Detection and Time-Frequency Segmentation from Weakly Labelled Data." arXiv preprint arXiv:1804.04715 (2018).
+
 [2] Q. Kong, Y. Xu, I. Sobieraj, W. Wang and M. D. Plumbley, "Sound Event Detection and Time–Frequency Segmentation from Weakly Labelled Data," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 27, no. 4, pp. 777-787, April 2019.
 doi: 10.1109/TASLP.2019.2895254
+
 [3] https://github.com/qiuqiangkong/dcase2019_task4 
+
 [4]https://github.com/qiuqiangkong/sed_time_freq_segmentation
